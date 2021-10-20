@@ -1,15 +1,17 @@
-### Hi there 👋
+## Hi there 👋 I'm Sukhrob
 
-**SukhrobErgashev/SukhrobErgashev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# My Interests
 
-Here are some ideas to get you started:
+<table>
+  <tr>
+    <td><img src ="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/181_Java-512.png" />
+       <td><img src ="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Kotlin_Icon_2021.svg/1024px-Kotlin_Icon_2021.svg.png" width = "512"/>
+    <td><img src ="https://iconape.com/wp-content/files/nd/33729/svg/android-logomark.svg" width = "512"/>
+  </tr>
+ </table>
 
-- 🔭 I’m currently working on SimpleToDo App
-- 🌱 I’m currently learning Room
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with Room
-- 💬 Ask me about 
-- 📫 How to reach me: devsukhrobergashev@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## Ways you can contact me:
+Telegram: @Sukhrob_Ergashev\
+Phone number: (90) 227 70 66\
+LinkedIn: SukhrobErgashev
 
