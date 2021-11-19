@@ -14,7 +14,7 @@
   <li>Telegram: <strong>@sukhrob_ergashev</strong></li>
 </ul>
 <br>
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sukhrobergashev&theme=dracula&bg_color=0D1117&title_color=3DDC84&icon_color=3DDC84&show_icons=true&hide_border=true" />
   <img margin-right="20px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sukhrobergashev&theme=dracula&bg_color=0D1117&title_color=3DDC84&layout=compact&hide=css,html&hide_border=true" />
 </p>
@@ -26,6 +26,6 @@
   <a href="https://github.com/sukhrob-ergashev">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-</p>
+</p> -->
 
 
