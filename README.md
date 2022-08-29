@@ -1,7 +1,35 @@
 
 <h1 align="center">Hi, I'm Sukhrob</h1>
-<p align="center">Student of Samarkand Branch of TUIT. Android developer. Kotlin lover</p>
-<p align="center">
+<p align="center">Mobile App Developer</p>
+
+## Contact me
+
+<a href="https://www.linkedin.com/in/SukhrobErgashev/">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>&nbsp;
+<a href="https://twitter.com/SukhrobErgashev">
+  <img src="https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+</a>&nbsp;
+<a href="https://www.instagram.com/sukhrob.dev/">
+  <img src="https://img.shields.io/badge/instagram-D811B0?style=for-the-badge&logo=instagram&logoColor=white" />    
+</a>&nbsp;
+<a href="https://telegram.me/sukhrob_dev">
+  <img src="https://img.shields.io/badge/telegram-%230077B5.svg?style=for-the-badge&logo=telegram&logoColor=white" />    
+</a>&nbsp;
+
+## Languages and Tools
+<img  src="https://img.shields.io/badge/Android-4CAF50?style=for-the-badge&logo=android&logoColor=white">&nbsp;
+<img  src="https://img.shields.io/badge/Kotlin-8382E3?style=for-the-badge&logo=kotlin&logoColor=white">&nbsp;
+<img  src="https://img.shields.io/badge/Java-E56F08?style=for-the-badge&logo=java&logoColor=white">&nbsp;
+<!-- <img  src="https://img.shields.io/badge/Python-4B8BBE?style=for-the-badge&logo=python&logoColor=white">&nbsp; -->
+
+## GitHub stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=SukhrobErgashev&count_private=true&show_icons=true&theme=tokyonight" />&nbsp;
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SukhrobErgashev&theme=tokyonight" />&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SukhrobErgashev&layout=compact&theme=tokyonight&langs_count=10&hide=html,purebasic,scss,css" />
+
+<!-- <p align="center">
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" width="225"/>
   <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" width="200"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" width="165"/>
@@ -13,7 +41,7 @@
   <li>Phone number: <strong>(90) 227 70 66</strong></li>
   <li>Telegram: <strong>@sukhrob_ergashev</strong></li>
 </ul>
-<br>
+<br> -->
 <!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sukhrobergashev&theme=dracula&bg_color=0D1117&title_color=3DDC84&icon_color=3DDC84&show_icons=true&hide_border=true" />
   <img margin-right="20px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sukhrobergashev&theme=dracula&bg_color=0D1117&title_color=3DDC84&layout=compact&hide=css,html&hide_border=true" />
