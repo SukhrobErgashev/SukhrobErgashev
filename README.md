@@ -4,7 +4,7 @@
 
 ## Contact me
 
-<a href="https://www.linkedin.com/in/SukhrobErgashev/">
+<a href="https://www.linkedin.com/in/sukhrob-ergashev/">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>&nbsp;
 <a href="https://twitter.com/SukhrobErgashev">
