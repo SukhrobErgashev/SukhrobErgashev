@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi there, I'm Sukhrob Ergashev</h1>
 <p align="center">ANDROID DEVELOPER&emsp;|&emsp;JAVA & KOTLIN DEVELOPER&emsp;|&emsp;PROBLEM SOLVER</p>
-<p align="center">Software Engineer with 2+ years of experience in Sowtware Develepment. I graduated from the university with a bachelor's degree in computer science. One of my interests is problem solving. As John Johnson said, <i><b>first solve the problem then write the code</b></i>. I can learn every thing quickly. I have been doing Android Development for a year. </p>
+<p align="justify">Software Engineer with 2+ years of experience in Sowtware Develepment. I graduated from the university with a bachelor's degree in computer science. One of my interests is problem solving. As John Johnson said, <i><b>first solve the problem then write the code</b></i>. I can learn every thing quickly. I have been doing Android Development for a year. </p>
 
 ## Contact me
 
