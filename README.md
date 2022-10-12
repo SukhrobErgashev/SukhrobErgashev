@@ -1,5 +1,6 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=180&section=header&text=SukhrobErgashev&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
-<h1 align="center">Hi there, I'm Sukhrob Ergashev</h1>
+<!-- <h1 align="center">Hi there, I'm Sukhrob Ergashev</h1> -->
 <p align="center">ANDROID DEVELOPER&emsp;|&emsp;JAVA & KOTLIN DEVELOPER&emsp;|&emsp;PROBLEM SOLVER</p>
 <p align="justify">Software Engineer with 2+ years of experience in Software Development. I graduated from the university with a bachelor's degree in computer science. One of my interests is problem solving. As John Johnson said, <i><b>first solve the problem then write the code</b></i>. I can learn every thing quickly. I have been doing Android Development for a year. </p>
 
@@ -30,6 +31,8 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=SukhrobErgashev&theme=tokyonight" />&nbsp;
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SukhrobErgashev&layout=compact&theme=tokyonight&langs_count=10&hide=html,purebasic,scss,css" />
 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
+
 <!-- <p align="center">
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" width="225"/>
   <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" width="200"/>
@@ -56,5 +59,6 @@
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p> -->
+
 
 
