@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=180&section=header&text=SukhrobErgashev&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=70A4FC&height=180&section=header&text=SukhrobErgashev&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
 <!-- <h1 align="center">Hi there, I'm Sukhrob Ergashev</h1> -->
 <p align="center">ANDROID DEVELOPER&emsp;|&emsp;JAVA & KOTLIN DEVELOPER&emsp;|&emsp;PROBLEM SOLVER</p>
@@ -31,7 +31,7 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=SukhrobErgashev&theme=tokyonight" />&nbsp;
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SukhrobErgashev&layout=compact&theme=tokyonight&langs_count=10&hide=html,purebasic,scss,css" />
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=70A4FC&height=160&section=footer"/>
 
 <!-- <p align="center">
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" width="225"/>
