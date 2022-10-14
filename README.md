@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=70A4FC&height=180&section=header&text=SukhrobErgashev&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
 <!-- <h1 align="center">Hi there, I'm Sukhrob Ergashev</h1> -->
-<p align="center">ANDROID DEVELOPER&emsp;|&emsp;JAVA & KOTLIN DEVELOPER&emsp;|&emsp;PROBLEM SOLVER</p>
+<p align="center"><b>ANDROID DEVELOPER&emsp;</b>|&emsp;<b>JAVA & KOTLIN DEVELOPER</b>&emsp;|&emsp;<b>PROBLEM SOLVER</b></p>
 <p align="justify">Software Engineer with 2+ years of experience in Software Development. I graduated from the university with a bachelor's degree in computer science. One of my interests is problem solving. As John Johnson said, <i><b>first solve the problem then write the code</b></i>. I can learn every thing quickly. I have been doing Android Development for a year. </p>
 
 ## Contact me
