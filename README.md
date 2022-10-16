@@ -2,7 +2,7 @@
 
 <!-- <h1 align="center">Hi there, I'm Sukhrob Ergashev</h1> -->
 <p align="center"><b>ANDROID DEVELOPER&emsp;</b>|&emsp;<b>JAVA & KOTLIN DEVELOPER</b>&emsp;|&emsp;<b>PROBLEM SOLVER</b></p>
-<p align="justify">&emsp;&emsp;Software Engineer with 2+ years of experience in Software Development. I have been doing Android Development for a year. I graduated from the university with a bachelor's degree in computer science. I can learn every thing quickly and one of my interests is problem solving. As John Johnson said, <i><b>first solve the problem then write the code</b></i>.</p>
+<p align="justify">&emsp;&emsp;Hi there! I am Software Engineer with 2+ years of experience in Software Development. I have been doing Android Development for a year. I graduated from the university with a bachelor's degree in computer science. I can learn every thing quickly and one of my interests is problem solving. As John Johnson said, <i><b>first solve the problem then write the code</b></i>.</p>
 
 ## Contact me
 
