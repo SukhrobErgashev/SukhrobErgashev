@@ -19,14 +19,14 @@
 </a>&nbsp;
 
 ## Languages and Tools
-<img height="65" src="https://user-images.githubusercontent.com/103866722/177941491-1947c6b0-6e38-4880-8bd7-01dac36165df.png">&nbsp;
-<img height="70" src="https://avatars.githubusercontent.com/u/6955922">&nbsp;
-<img height="70" src="https://cdn.icon-icons.com/icons2/3053/PNG/512/android_studio_alt_macos_bigsur_icon_190394.png">&nbsp;
-<img height="70" src="https://cdn-icons-png.flaticon.com/512/226/226777.png">&nbsp;
-<img height="70" src="https://user-images.githubusercontent.com/79367686/196995363-6091f88c-db90-4955-916d-fc58ea817533.png">&nbsp;
-<img height="70" src="https://3.bp.blogspot.com/-VVp3WvJvl84/X0Vu6EjYqDI/AAAAAAAAPjU/ZOMKiUlgfg8ok8DY8Hc-ocOvGdB0z86AgCLcBGAsYHQ/s1600/jetpack%2Bcompose%2Bicon_RGB.png" />
-<img height="65" src="https://brandlogos.net/wp-content/uploads/2022/07/google_play-logo_brandlogos.net_kuk1d-512x512.png">&nbsp;
-<img height="65" src="https://raw.githubusercontent.com/androiddevnotes/awesome-jetpack-compose-android-apps/master/assets/jetpack_compose_androiddevnotes.png" />
+<img height="50" src="https://user-images.githubusercontent.com/103866722/177941491-1947c6b0-6e38-4880-8bd7-01dac36165df.png">&nbsp;
+<img height="55" src="https://avatars.githubusercontent.com/u/6955922">&nbsp;
+<img height="55" src="https://cdn.icon-icons.com/icons2/3053/PNG/512/android_studio_alt_macos_bigsur_icon_190394.png">&nbsp;
+<img height="55" src="https://cdn-icons-png.flaticon.com/512/226/226777.png">&nbsp;
+<img height="55" src="https://user-images.githubusercontent.com/79367686/196995363-6091f88c-db90-4955-916d-fc58ea817533.png">&nbsp;
+<img height="60" src="https://3.bp.blogspot.com/-VVp3WvJvl84/X0Vu6EjYqDI/AAAAAAAAPjU/ZOMKiUlgfg8ok8DY8Hc-ocOvGdB0z86AgCLcBGAsYHQ/s1600/jetpack%2Bcompose%2Bicon_RGB.png" />&nbsp;
+<img height="50" src="https://brandlogos.net/wp-content/uploads/2022/07/google_play-logo_brandlogos.net_kuk1d-512x512.png">&nbsp;
+<img height="50" src="https://raw.githubusercontent.com/androiddevnotes/awesome-jetpack-compose-android-apps/master/assets/jetpack_compose_androiddevnotes.png" />
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=70A4FC&height=160&section=footer"/>
 
